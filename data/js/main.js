@@ -4,8 +4,6 @@ var settings = {
     "timeout": 0,
   };
   
-  $.ajax(settings).done(function (data) {
-    console.log(data);
+  $.ajax(settings).done(function (id) {
+    console.log(id);
   });
-
- git commit
