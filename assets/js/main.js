@@ -6,8 +6,12 @@ var settings = {
   
   $.ajax(settings).done(function (data) {
 
-   let name = data.name
 
-    console.log(data);
+    console.log(data[0]['name']);
+
+
+
   });
+
+ 
 

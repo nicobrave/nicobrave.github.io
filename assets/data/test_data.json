@@ -1,10 +1,10 @@
-[{
+{
         "id": 0,
         "name": "perro",
-        "images": {
+        "images": [ {
             "photo_id": "https://drive.google.com/file/d/1i9IRM_tNkA29pZhqcImgmn5diAbD2JSB/view?usp=sharing",
             "text_id": "https://drive.google.com/file/d/1Ldjb49nHNTRQ_5RCUL8P7MSd0B8XHI9V/view?usp=sharing"
-        },
+        } ] ,
         "audio": "https://drive.google.com/file/d/1J0CPvQzz4Yu9BeofqPaNHx_1_6CeXGic/view?usp=sharing",
         "gif": "https://drive.google.com/file/d/1uR4QP28Tieg0VIRfWYf90JCDGO2o6lj6/view?usp=sharing"
 
@@ -21,5 +21,4 @@
         "gif": "https://drive.google.com/file/d/1hu08WZBGJfupQ7w9Co62hFr2qVAoZTTB/view?usp=sharing"
 
     }
-
-]
+}
